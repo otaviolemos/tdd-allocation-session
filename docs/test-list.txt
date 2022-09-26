@@ -1,5 +1,4 @@
 1 - should prefer stock batches to shipments
 2 - should prefer earlier batches
 3 - should return allocated batch reference
-4 - should handle invalid batch arrays
-5 - should return out of stock error if cannot allocate
+4 - should return out of stock error if cannot allocate
